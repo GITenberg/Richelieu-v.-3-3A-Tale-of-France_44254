@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44254#Richelieu-v.-3-3A-Tale-of-France
 gutenberg_issued: '2013-11-21'
 gutenberg_type: Text
 identifiers:
